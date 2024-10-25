@@ -1,5 +1,7 @@
 # 👤 Welcome to My GitHub Profile
 
+![Profile Picture](https://via.placeholder.com/150) <!-- Replace with your actual image URL -->
+
 ## About Me
 I'm a dedicated Web Developer with a strong focus on cybersecurity. My mission is to build secure and scalable web applications that deliver exceptional user experiences. I blend expertise in development with a deep understanding of security protocols to ensure robust applications.
 
@@ -25,11 +27,13 @@ I'm a dedicated Web Developer with a strong focus on cybersecurity. My mission i
 
 ## Featured Projects
 ### [Project 1 Name](link)
+![Project 1 Screenshot](https://via.placeholder.com/300) <!-- Replace with your project image URL -->
 - **Overview:** Brief description of the project.
 - **Tech Stack:** Technologies used.
 - **Security Features:** Key security measures implemented.
 
 ### [Project 2 Name](link)
+![Project 2 Screenshot](https://via.placeholder.com/300) <!-- Replace with your project image URL -->
 - **Overview:** Brief description of the project.
 - **Tech Stack:** Technologies used.
 - **Security Features:** Key security measures implemented.
